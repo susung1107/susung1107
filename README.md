@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey there! Glad you stopped by 👋
+
+## spec
+Writing the story as we go...
+
+
 
 <!--
 **susung1107/susung1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
