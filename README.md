@@ -1,10 +1,12 @@
-# Hey there! Glad you stopped by 👋
+### Hey there! Glad you stopped by 👋
 
+<!--
 ## spec 
 Writing the story as we go...
 
 <br>
 <br>
+-->
 
 ## Contact  
 **Email**: [susung1107@gmail.com](mailto:susung1107@gmail.com)  
